@@ -2,12 +2,12 @@
 
 body {
   margin: 0;
-  background: #343b3e url("/assets/spencer.png") repeat-x scroll 0px 800px;
+  background: #343b3d;
 }
 
 .title {
   font-family: 'Bebas Neue', Geneva, Verdana, sans-serif;
-  color: rgb(176, 176, 225);
+  color: rgb(170, 170, 187);
   letter-spacing: .4rem;
   font-weight: 400;
   font-size: 48px;
